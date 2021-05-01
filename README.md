@@ -1,5 +1,7 @@
 ### François 👋
 
+#### Statistics 📊
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=parmentf&show_icons=true) ![Languages](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=parmentf&layout=compact&show_icons=true&hide=Dhall)
 
 
