@@ -1,4 +1,9 @@
-### Hi there 👋
+### François 👋
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=parmentf&show_icons=true) | ![Languages](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=parmentf&layout=compact&show_icons=true&hide=Dhall) |
+
+
+> Provided by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **parmentf/parmentf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
